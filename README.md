@@ -7,7 +7,7 @@ This analysis was inititally developed by Kriegeskorte et al (2006) for the comp
 
 The scripts are the customized (simplified) version for representational similarity analysis, and was made for the paper published here: 
 
-*Zhang, B., & Naya, Y. (2020). Medial prefrontal cortex represents the object-based cognitive map when remembering an egocentric target location. Cerebral Cortex, bhaa117, https://doi.org/10.1093/cercor/bhaa117*
+###### *Zhang, B., & Naya, Y. (2020). Medial prefrontal cortex represents the object-based cognitive map when remembering an egocentric target location. Cerebral Cortex, bhaa117, https://doi.org/10.1093/cercor/bhaa117*
 
 
 ## Docs:
