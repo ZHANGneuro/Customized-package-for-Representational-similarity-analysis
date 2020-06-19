@@ -12,9 +12,9 @@ The scripts are the customized (simplified) version for representational similar
 
 ## Docs:
 
-1. preprocess MRI image e.g. using FSL. 
+1. preprocess MRI image e.g. using `FSL`. 
 2. obtain multi-voxel pattern by creating a 1st level univarite GLM.
-3. use 'ct_by_voxel_fsl.m' to compute correlation matrix across trial-pairs for each image voxel.
-4. use mvpa_analysis_fsl_glm to compute representational similarity by create a 2nd level GLM.
+3. use `ct_by_voxel_fsl.m` to compute correlation matrix across trial-pairs for each image voxel.
+4. use `mvpa_analysis_fsl_glm` to compute representational similarity by create a 2nd level GLM.
 
 Note that recoding will be needed for your case.
